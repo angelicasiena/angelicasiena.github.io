@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f0de31bf.css",
+    "main.js": "/static/js/main.5b471334.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/siena-logo.svg": "/static/media/siena-logo.c9fc3b766e0d91e9e118fc9c57629f29.svg",
+    "index.html": "/index.html",
+    "main.f0de31bf.css.map": "/static/css/main.f0de31bf.css.map",
+    "main.5b471334.js.map": "/static/js/main.5b471334.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0de31bf.css",
+    "static/js/main.5b471334.js"
+  ]
+}
