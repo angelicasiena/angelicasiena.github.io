@@ -1,4 +1,5 @@
 import React from 'react';
+import {Flex, Text} from '@chakra-ui/react';
 import logo from './siena-logo.svg';
 import './App.css';
 
@@ -7,17 +8,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Flex>
+          <Text pr={10} color="#F4EEEE"><h1>Siena</h1></Text>
+          <Text color="#51DACF"><h1>Abaya</h1></Text>
+        </Flex>
       </header>
     </div>
   );
